@@ -1,0 +1,31 @@
+.sections {
+    margin-top: 40px;
+}
+.sections h2 {
+    border-bottom: 2px solid #6c63ff;
+    display: inline-block;
+}
+.sections .meditation {
+    background-color: #fff3e0;
+    padding: 20px;
+    border-radius: 8px;
+}
+.sections .meditation h2 {
+    color: #fb8c00;
+}
+.sections .motivation {
+    background-color: #f3e5f5;
+    padding: 20px;
+    border-radius: 8px;
+}
+.sections .motivation h2 {
+    color: #8e24aa;
+}
+.sections .anger {
+    background-color: #ffeb3b;
+    padding: 20px;
+    border-radius: 8px;
+}
+.sections .anger h2 {
+    color: #fbc02d;
+}
